@@ -52,6 +52,8 @@ The function returns a [Promise](https://developer.mozilla.org/en-US/docs/Web/Ja
 
 You can download ready builds [here](https://github.com/niklasvh/html2canvas/releases).
 
+Or you can clone git repository using following command:
+
 Clone git repository:
 
     $ git clone git://github.com/niklasvh/html2canvas.git
